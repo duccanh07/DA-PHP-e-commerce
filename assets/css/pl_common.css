@@ -1,0 +1,160 @@
+*
+{
+	padding:0;
+	margin:0;
+	outline:0
+}
+
+body
+{
+	font-size:14px
+}
+
+ul,li,p
+{
+	margin:0;
+	padding:0
+}
+
+li
+{
+	list-style:none
+}
+
+.primary-color
+{
+	color:#fff
+}
+
+.color-bg,.content-info h2:hover,.footer-content-item li a:hover,.product-information-content h2:hover,.pri-color-hover,.pri-color-hover:hover,.list-collections li a:hover,.pagination li a,.pagination li a:hover
+{
+	color:#2ABB9C
+}
+
+.primary-bg,.pagination li.active a
+{
+	background:#2ABB9C
+}
+
+.wrap-overflow
+{
+	width:100%;
+	min-height:1px;
+	overflow:hidden
+}
+
+input::-webkit-input-placeholder
+{
+	font-size:1.2em;
+	line-height:3
+}
+
+.primary-border,.pagination li.active a
+{
+	border:1px solid #2ABB9C!important
+}
+
+.pointer,.btn-wishlist
+{
+	cursor:pointer
+}
+
+.fontWeight600
+{
+	font-weight:600
+}
+
+.relative
+{
+	position:relative
+}
+
+.w90
+{
+	width:90%
+}
+
+.w80
+{
+	width:80%
+}
+
+.w10
+{
+	width:10%
+}
+
+.w50
+{
+	width:50%
+}
+
+.mb10,.text-p
+{
+	margin-bottom:10px
+}
+
+.over-flow-hidden
+{
+	overflow:hidden
+}
+
+h1,h2,h3,h4,h5,h6,p
+{
+	margin:0
+}
+
+.pd10
+{
+	padding:10px
+}
+
+.pd5
+{
+	padding:5px
+}
+
+.pd0
+{
+	padding:0
+}
+
+.mb15
+{
+	margin-bottom:15px
+}
+
+.mt10
+{
+	margin-top:10px
+}
+
+.mt20
+{
+	margin-top:20px
+}
+
+.split-string
+{
+	-webkit-box-orient:vertical!important;
+	display:-webkit-box!important;
+	overflow:hidden!important;
+	display:-moz-box!important;
+	-moz-box-orient:vertical!important
+}
+
+a:hover
+{
+	text-decoration:none!important
+}
+
+ul li
+{
+	padding:0;
+	margin:0;
+	list-style-type:none
+}
+
+img{
+	max-width: 100% !important;
+}
